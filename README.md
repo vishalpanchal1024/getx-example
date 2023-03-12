@@ -1,4 +1,4 @@
-# getx_demo_project
+## Getx demo project
 
 A new Flutter project.
 
